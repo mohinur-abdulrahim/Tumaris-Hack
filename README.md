@@ -1,12 +1,12 @@
 # Tumaris-Hack
 
 
-# Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
-
+# Run your business better with #fazo
 
 
 ## Authors
 
+- A'lonur Abdurakhimova
 - Mokhinur Abdurakhimova
 
 ## Table of Contents
