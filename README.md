@@ -51,8 +51,10 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 - AWS S3 (model storage)
 
 
+
 ## Quick glance at the results
 
+![heatmap](https://user-images.githubusercontent.com/86318286/200110718-eab7cf3d-6e98-4007-9bff-37de828fd965.png)
 Correlation between the features.
 
 ![heatmap](assets/heatmap.png)
@@ -60,8 +62,11 @@ Correlation between the features.
 Confusion matrix of gradient boosting classifier.
 
 ![Confusion matrix](assets/confusion_matrix.png)
+![confusion_matrix](https://user-images.githubusercontent.com/86318286/200110737-ec7dc292-aad0-4c9b-afd2-6e7498f3d38b.png)
 
 ROC curve of gradient boosting classifier.
+
+![roc](https://user-images.githubusercontent.com/86318286/200110743-920607e1-c472-47db-b2fe-4270bea6f6e0.png)
 
 ![ROC curve](assets/roc.png)
 
