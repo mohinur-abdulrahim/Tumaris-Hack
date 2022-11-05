@@ -1,13 +1,23 @@
-# Tumaris-Hack
+![banner](assets/Credit_card_approval_banner.png)
 
 
-# Run your business better with #fazo
+![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
+![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Credit-card-approval-prediction-classification)
+![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
+![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/credit-card-approval-prediction-classification/main/cc_approval_pred.py)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+Badge [source](https://shields.io/)
+
+# Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
 
 
 ## Authors
 
-- A'lonur Abdurakhimova
-- Mokhinur Abdurakhimova
+- [@semasuka](https://www.github.com/semasuka)
 
 ## Table of Contents
 
@@ -52,10 +62,8 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 - AWS S3 (model storage)
 
 
-
 ## Quick glance at the results
 
-![heatmap](https://user-images.githubusercontent.com/86318286/200110718-eab7cf3d-6e98-4007-9bff-37de828fd965.png)
 Correlation between the features.
 
 ![heatmap](assets/heatmap.png)
@@ -63,11 +71,8 @@ Correlation between the features.
 Confusion matrix of gradient boosting classifier.
 
 ![Confusion matrix](assets/confusion_matrix.png)
-![confusion_matrix](https://user-images.githubusercontent.com/86318286/200110737-ec7dc292-aad0-4c9b-afd2-6e7498f3d38b.png)
 
 ROC curve of gradient boosting classifier.
-
-![roc](https://user-images.githubusercontent.com/86318286/200110743-920607e1-c472-47db-b2fe-4270bea6f6e0.png)
 
 ![ROC curve](assets/roc.png)
 
@@ -217,8 +222,43 @@ Video to gif [tool](https://ezgif.com/)
 ├── requirements.txt                              <- list of all the dependencies with their versions(used for Streamlit).
 
 ```
+## Contribution
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
+
+## Blog post
+
+The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
+
+## Project featuring
+
+This project was featured on [Luke Barousse Youtube Channel](https://www.youtube.com/c/LukeBarousse), Click on the thumbnail to watch the video
+
+[![IMAGE_ALT](https://img.youtube.com/vi/5Q0gB7imNOo/0.jpg)](https://www.youtube.com/watch?v=5Q0gB7imNOo&t=222s)
 
 
+## License
 
+MIT License
 
+Copyright (c) 2022 Stern Semasuka
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
