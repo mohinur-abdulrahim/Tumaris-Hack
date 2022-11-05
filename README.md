@@ -1,9 +1,6 @@
 ![Credit_card_approval_banner](https://user-images.githubusercontent.com/86318286/200111806-0342bed8-13fc-4978-999c-68df5d50f5cc.png)
 
-Run your business better with #fazo
-
-# Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
-
+# Run your business better with #fazo
 
 ## Authors
 
