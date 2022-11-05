@@ -1,6 +1,6 @@
 # Tumaris-Hack
 
-![Uploading gif_streamlit.gif…]()
+https://github.com/semasuka/Credit-card-approval-prediction-classification/blob/main/assets/gif_streamlit.gif
 
 # Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
 
