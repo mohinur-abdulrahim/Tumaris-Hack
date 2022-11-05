@@ -56,17 +56,7 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 ## Quick glance at the re![heatmap](https://user-images.githubusercontent.com/86318286/200112292-78593985-268c-4821-bea2-89a4f9678c23.png)
 sults
 
-Correlation between the features.
 
-![Uploading heatmap.png…]()
-
-![heatmap](assets/heatmap.png)
-
-Confusion matrix of gra![Uploading heatmap.png…]()
-dient boosting classifier.
-
-![Confusion matri![confusion_matrix](https://user-images.githubusercontent.com/86318286/200112306-8722c83f-38e6-43be-b87c-65b8ea16cfef.png)
-x](assets/confusion_matrix.png)
 
 ROC curve of gradient boosting classifier.
 
