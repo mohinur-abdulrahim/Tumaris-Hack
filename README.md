@@ -1,4 +1,5 @@
-# Tumaris-Hack
+# Tumaris-Hack![Credit_card_approval_banner](https://user-images.githubusercontent.com/86318286/200110685-03727b17-a1a4-449d-8505-9253bfa98efe.png)
+
 
 # Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
 
